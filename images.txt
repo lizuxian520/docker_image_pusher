@@ -1,2 +1,7 @@
 labring/kubernetes:v1.24.3
 labring/kube-ovn:v1.10.5
+dreamacro/clash:latest
+haishanh/yacd:latest
+linuxserver/qbittorrent:latest
+jellyfin/jellyfin:latest
+haishanh/yacd:latest
