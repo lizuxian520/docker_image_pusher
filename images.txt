@@ -5,3 +5,4 @@ haishanh/yacd:latest
 linuxserver/qbittorrent:latest
 jellyfin/jellyfin:latest
 haishanh/yacd:latest
+emby/embyserver:latest
